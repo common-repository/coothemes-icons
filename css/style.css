@@ -1,0 +1,40 @@
+/**
+ * Coothemes Icons
+ * Compiled by Coothemes
+ * https://www.coothemes.com
+ * All of the CSS for your dashboard-specific functionality should be
+ * included in this file.
+ */
+
+ 
+.ctic-public{ text-decoration:none;}
+
+.animated-icon{ display:inline-block;}
+
+
+
+#ctic-circle {
+    margin-top: 20px;
+    text-align: center;
+    margin: 10px auto;
+    padding: 0px 0 0px 0;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    border: none;
+    display: inline-block;
+}
+
+#ctic-circle>.ct {
+    display: inline-block;
+    cursor: pointer;
+    font-size: 0;
+    margin: 12px 15px;
+
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    border-bottom: none!important;
+	
+}
